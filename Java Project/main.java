@@ -15,7 +15,7 @@ import java.util.logging.*;
 /**
  * This class is the main program that runs the Jframe GUI with the rest of the Dealership Database.
  * 
- * @author Christopher Henry (C_H255), Matthew Cano (MTC54)
+ * @author Christopher Henry, Matthew Cano
  * @version 11/20/2016
  */
 public class main extends JFrame {
